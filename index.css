@@ -11,3 +11,9 @@ body {
     background-color: black;
     font-family: "arial";
 }
+
+#win {
+    font-size: 100px;
+    color: blueviolet;
+    display: none;
+}
